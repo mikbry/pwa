@@ -1,2 +1,2 @@
 # PWA
-Progressive Web App experiments
+Progressive Web App experimentation
