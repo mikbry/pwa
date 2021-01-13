@@ -1,2 +1,2 @@
-# pwa
+# PWA
 Progressive Web App experiments
